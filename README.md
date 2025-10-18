@@ -11,6 +11,7 @@ Overview
 This digital portfolio forms part of my PRP370 submission and demonstrates the professional competencies developed during my work-readiness training and internship experience.
 Each section links to my CV (ETHAN HECTOR 9.pdf) as supporting evidence and is followed by a written reflection using the STAR technique.
 
+
 1. Business Communication
 
 Evidence: My CV highlights written communication used throughout my AWS internship — including structured documentation, daily email summaries, and technical reporting for stakeholders.
@@ -24,6 +25,7 @@ Task: I had to learn to communicate technical information clearly and concisely 
 Action: I adopted a structured writing style, prepared short weekly summaries, and reviewed my tone and format based on feedback.
 
 Result: My communication became more precise and professional, resulting in quicker responses from stakeholders and smoother collaboration within the team.
+
 
 2. Interview Skills
 
@@ -39,6 +41,7 @@ Action: I practiced common interview questions, rehearsed STAR-based answers, an
 
 Result: I performed well enough to secure the internship, which confirmed that structured preparation and reflection can make a significant difference in interviews.
 
+
 3. Mock Interview
 
 Evidence: My CV includes tangible outcomes from professional-readiness exercises such as the mock interview simulation that contributed to my AWS placement.
@@ -53,6 +56,7 @@ Action: I prepared responses linking my coursework to real-world applications, m
 
 Result: The session improved my confidence and helped me structure answers logically, skills that later benefited my actual AWS interview.
 
+
 4. Professional Networking
 
 Evidence: My LinkedIn profile and CV provide evidence of professional networking, showing engagement with the AWS community and ongoing certification achievements 
@@ -66,6 +70,7 @@ Task: I needed to connect with professionals and mentors who could offer insight
 Action: I updated my LinkedIn profile, joined AWS groups, and shared updates on my certification journey.
 
 Result: I connected with industry professionals who provided guidance on certification paths and career planning, which strengthened my professional visibility and understanding of the field.
+
 
 5. Workplace Etiquette
 
