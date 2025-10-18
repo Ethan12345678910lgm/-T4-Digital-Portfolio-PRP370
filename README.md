@@ -57,10 +57,6 @@ Result: The session improved my confidence and helped me structure answers logic
 
 Evidence: My LinkedIn profile and CV provide evidence of professional networking, showing engagement with the AWS community and ongoing certification achievements 
 
-ETHAN HECTOR 9
-
-.
-
 Reflection (STAR):
 
 Situation: I wanted to expand my professional network and learn from others working in cloud technology.
