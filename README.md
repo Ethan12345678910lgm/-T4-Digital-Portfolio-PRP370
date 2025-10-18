@@ -75,10 +75,6 @@ Result: I connected with industry professionals who provided guidance on certifi
 
 Evidence: The AWS internship section of my CV illustrates how I adhered to professional standards and workplace conduct while collaborating with a technical team 
 
-ETHAN HECTOR 9
-
-.
-
 Reflection (STAR):
 
 Situation: Working in a professional environment for the first time, I had to adjust to organizational expectations and team protocols.
