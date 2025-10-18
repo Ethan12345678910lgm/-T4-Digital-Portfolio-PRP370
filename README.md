@@ -1,6 +1,9 @@
 Created by Ethan Hector
+
 Student ID 222816570
+
 Cape Peninsula University of Technology
+
 LinkedIn: https://www.linkedin.com/in/ethanhector
 
 Overview
